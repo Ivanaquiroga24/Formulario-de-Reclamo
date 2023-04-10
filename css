@@ -1,0 +1,28 @@
+HTML CSS
+{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Montserrat'; 
+
+
+}
+html{
+    font-size: large 62.5%;
+
+}
+body{
+font-size: 1,9rem;
+background-attachment:fixed; 
+background-size:cover;
+
+}
+.form{
+    width: 50%;
+    min-width: 300px;
+    background: rgba(red, 0, 0, 0.491);
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    color:aqua
+}
